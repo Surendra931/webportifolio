@@ -1,7 +1,7 @@
 
 # My Portfolio Website
 
-Welcome to my personal portfolio website repository! This website showcases my projects, skills, and experiences. You can visit the live site [here](https://bhavyasaikeerthithammineni14.github.io/Webfolio/)
+Welcome to my personal portfolio website repository! This website showcases my projects, skills, and experiences. You can visit the live site [here](https://github.com/Surendra931/webportifolio.git)
 
 ## Table of Contents
 
@@ -29,13 +29,14 @@ To run this website locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/BhavyaSaiKeerthiThammineni14/Webfolio.git
+    git clone https://github.com/Surendra931/webportifolio.git
+
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Webfolio
+    cd Webportifolio
     ```
 
 3. Open the `index.html` file in your preferred web browser:
@@ -53,9 +54,9 @@ Feel free to explore the various sections of the website to learn more about my 
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email:[📧]( bhavyaskthammineni@gmail.com)
-- LinkedIn: [🖇️](https://www.linkedin.com/in/bhavya-sai-keerthi-thammineni/)
-- Twitter: [X](https://x.com/sai_thammi92820)
+- Email:[📧](surendrasriramula@gmail.com)
+- LinkedIn: [🖇️](https://www.linkedin.com/in/surendrasriramula/)
+- Twitter: [X](https://x.com/surendrasri931)
 
 Thank you for visiting my portfolio website!!  🫶🏻🫶🏻
 
